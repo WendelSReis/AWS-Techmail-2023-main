@@ -1,0 +1,4 @@
+# Arquivo de texto comum
+
+Olá mundo!
+esse é o meu primeiro codigo em python.
