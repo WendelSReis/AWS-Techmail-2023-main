@@ -26,9 +26,7 @@ while isGuessRight != True:
         isGuessRight = True
     # Enquanto o usuario nao advinhar
     else:
-        print("You guessed {}. Sorry, that isn’t it. Try again.".format(guess))
-        
-        
+        print("You guessed {}. Sorry, that isn’t it. Try again.".format(guess))   
 
 """
 Welcome to Guess the Number!
